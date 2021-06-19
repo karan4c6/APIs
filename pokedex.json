@@ -6,10 +6,10 @@
         "name": "Bulbasaur",
         "number": 1,
         "imageUrl": "https://pokeres.bastionbot.org/images/pokemon/1.png",
-        "type": {
-          "type1": "GRASS",
-          "type2": "POISON"
-        },
+        "type": [
+          "GRASS",
+          "POISON"
+        ],
         "stats": {
           "cp": 1115,
           "hp": 113
@@ -40,11 +40,11 @@
       {
         "name": "Ivysaur",
         "number": 2,
-        "imageUrl": "",
-        "type": {
-          "type1": "GRASS",
-          "type2": "POISON"
-        },
+        "imageUrl": "https://pokeres.bastionbot.org/images/pokemon/2.png",
+        "type": [
+          "GRASS",
+          "POISON"
+        ],
         "stats": {
           "cp": 1699,
           "hp": 134
@@ -75,11 +75,11 @@
       {
         "name": "Venasaur",
         "number": 3,
-        "imageUrl": "",
-        "type": {
-          "type1": "GRASS",
-          "type2": "POISON"
-        },
+        "imageUrl": "https://pokeres.bastionbot.org/images/pokemon/3.png",
+        "type": [
+          "GRASS",
+          "POISON"
+        ],
         "stats": {
           "cp": 2720,
           "hp": 162
