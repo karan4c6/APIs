@@ -181,7 +181,7 @@
         },
         "evolution": {
           "mega": true,
-          "megaCP": 3698,
+          "megaCP": 4455,
           "megaEnergy": "200/40 Energy"
         },
         "buddy": {
@@ -197,6 +197,99 @@
             "Ground",
             "Rock",
             "Water"
+          ]
+        }
+      },
+      {
+        "name": "Squirtle",
+        "number": 7,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/007.jpg",
+        "type": [
+          "WATER"
+        ],
+        "stats": {
+          "cp": 946,
+          "hp": 112
+        },
+        "evolution": {
+          "mega": false,
+          "candy": 25,
+          "evolveToName": "Wartortle",
+          "evolveToNumber": 8
+        },
+        "buddy": {
+          "candyKm": 3
+        },
+        "bestMoveset": {
+          "fast": "Bubble",
+          "charge": "Aqua Tail"
+        },
+        "fight": {
+          "weakToType": [
+            "Grass",
+            "Electric"
+          ]
+        }
+      },
+      {
+        "name": "Wartortle",
+        "number": 8,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/008.jpg",
+        "type": [
+          "WATER"
+        ],
+        "stats": {
+          "cp": 1488,
+          "hp": 132
+        },
+        "evolution": {
+          "mega": false,
+          "candy": 100,
+          "evolveToName": "Blastoise",
+          "evolveToNumber": 9
+        },
+        "buddy": {
+          "candyKm": 3
+        },
+        "bestMoveset": {
+          "fast": "Water Gun",
+          "charge": "Hydro Pump"
+        },
+        "fight": {
+          "weakToType": [
+            "Grass",
+            "Electric"
+          ]
+        }
+      },
+      {
+        "name": "Blastoise",
+        "number": 9,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/009.jpg",
+        "type": [
+          "WATER"
+        ],
+        "stats": {
+          "cp": 2466,
+          "hp": 160
+        },
+        "evolution": {
+          "mega": true,
+          "megaCP": 3941,
+          "megaEnergy": "200/40 Energy"
+        },
+        "buddy": {
+          "candyKm": 3
+        },
+        "bestMoveset": {
+          "fast": "Water Gun",
+          "charge": "Hydro Pump",
+          "special": "Hydro Cannon"
+        },
+        "fight": {
+          "weakToType": [
+            "Grass",
+            "Electric"
           ]
         }
       }
