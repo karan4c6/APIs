@@ -292,6 +292,103 @@
             "Electric"
           ]
         }
+      },
+      {
+        "name": "Caterpie",
+        "number": 10,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/010.jpg",
+        "type": [
+          "BUG"
+        ],
+        "stats": {
+          "cp": 437,
+          "hp": 113
+        },
+        "evolution": {
+          "mega": false,
+          "candy": 12,
+          "evolveToName": "Metapod",
+          "evolveToNumber": 11
+        },
+        "buddy": {
+          "candyKm": 1
+        },
+        "bestMoveset": {
+          "fast": "Bug Bite",
+          "charge": "Struggle"
+        },
+        "fight": {
+          "weakToType": [
+            "Fire",
+            "Flying",
+            "Rock"
+          ]
+        }
+      },
+      {
+        "name": "Metapod",
+        "number": 11,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/011.jpg",
+        "type": [
+          "BUG"
+        ],
+        "stats": {
+          "cp": 450,
+          "hp": 120
+        },
+        "evolution": {
+          "mega": false,
+          "candy": 50,
+          "evolveToName": "Butterfree",
+          "evolveToNumber": 12
+        },
+        "buddy": {
+          "candyKm": 1
+        },
+        "bestMoveset": {
+          "fast": "Bug Bite",
+          "charge": "Struggle"
+        },
+        "fight": {
+          "weakToType": [
+            "Fire",
+            "Flying",
+            "Rock"
+          ]
+        }
+      },
+      {
+        "name": "Butterfree",
+        "number": 12,
+        "imageUrl": "https://raw.githubusercontent.com/karan4c6/APIs/main/pokedex/images/012.jpg",
+        "type": [
+          "BUG",
+          "FLYING"
+        ],
+        "stats": {
+          "cp": 1827,
+          "hp": 134
+        },
+        "evolution": {
+          "mega": false
+        },
+        "buddy": {
+          "candyKm": 1
+        },
+        "bestMoveset": {
+          "fast": "Confusion",
+          "charge": "Bug Buzz",
+          "special": "Bug Bite"
+        },
+        "fight": {
+          "weakToType": [
+            "Rock",
+            "Fire",
+            "Flying",
+            "Ice",
+            "Electric"
+          ]
+        }
       }
     ]
   }
